@@ -6,7 +6,6 @@ public class Main {
         // int amount = 1_000_000;
         // int time = 12;
         // double payment = service.calculate(amount, time);
-
         // System.out.println(payment);
 
 
